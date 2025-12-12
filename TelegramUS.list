@@ -1,0 +1,10 @@
+# NAME: TelegramUS
+# AUTHOR: RzMY
+# REPO: https://github.com/RzMY/Telegram-CIDR-Regions
+# UPDATED: 2025-12-12 16:20:25
+# IP-CIDR: 2
+# IP6-CIDR: 1
+# TOTAL: 3
+IP-CIDR,91.108.12.0/22,TelegramUS
+IP-CIDR,149.154.172.0/22,TelegramUS
+IP6-CIDR,2001:b28:f23d::/48,TelegramUS

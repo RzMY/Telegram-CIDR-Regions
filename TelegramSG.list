@@ -1,0 +1,12 @@
+# NAME: TelegramSG
+# AUTHOR: RzMY
+# REPO: https://github.com/RzMY/Telegram-CIDR-Regions
+# UPDATED: 2025-12-12 16:20:25
+# IP-CIDR: 3
+# IP6-CIDR: 2
+# TOTAL: 5
+IP-CIDR,91.108.16.0/21,TelegramSG
+IP-CIDR,91.108.56.0/23,TelegramSG
+IP-CIDR,149.154.168.0/22,TelegramSG
+IP6-CIDR,2001:b28:f23c::/48,TelegramSG
+IP6-CIDR,2001:b28:f23f::/48,TelegramSG

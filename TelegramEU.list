@@ -1,0 +1,16 @@
+# NAME: TelegramEU
+# AUTHOR: RzMY
+# REPO: https://github.com/RzMY/Telegram-CIDR-Regions
+# UPDATED: 2025-12-12 16:20:25
+# IP-CIDR: 7
+# IP6-CIDR: 2
+# TOTAL: 9
+IP-CIDR,91.105.192.0/23,TelegramEU
+IP-CIDR,91.108.4.0/22,TelegramEU
+IP-CIDR,91.108.8.0/22,TelegramEU
+IP-CIDR,91.108.56.0/22,TelegramEU
+IP-CIDR,95.161.64.0/20,TelegramEU
+IP-CIDR,149.154.160.0/21,TelegramEU
+IP-CIDR,185.76.151.0/24,TelegramEU
+IP6-CIDR,2001:67c:4e8::/48,TelegramEU
+IP6-CIDR,2a0a:f280:203::/48,TelegramEU
